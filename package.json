@@ -1,0 +1,11 @@
+{
+  "name": "uuid",
+  "version": "1.0.0",
+  "description": "Angular / Node module to generator uuid",
+  "main": "uuid.js",
+  "repository": {
+    "type": "git",
+    "url": "https://sngreg@github.com/sngreg/uuid.git"
+  },
+  "author": "Earnest Inc."
+}
